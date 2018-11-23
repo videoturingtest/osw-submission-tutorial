@@ -1,7 +1,7 @@
 VTT 연구 성과로 산출된 오픈소스가 라이선스를 잘 지키고 있는지 검증하기 위하여 라이선스 검증 도구인 [코드아이(CodeEye)](https://www.olis.or.kr/codeEye/introduction.do)를 씁니다.
 
 # 1. 코드아이 클라이언트 다운로드
-[OLIS]x(https://www.olis.or.kr/)에 접속한다.
+[OLIS](https://www.olis.or.kr/)에 접속한다.
 
 ![page1](images/page1.PNG)
 
