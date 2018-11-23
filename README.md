@@ -1,4 +1,4 @@
-# Open Software Submission utorial
+# Open Software Submission Tutorial
 A tutorial to submit open-source software to this VIC GitHub
 
 # Contents
