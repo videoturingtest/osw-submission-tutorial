@@ -8,9 +8,9 @@
 * 저작자의 repository GitHub에 들어가서 화면 오른쪽 상단에 [VIC GitHub](https://github.com/videoturingtest)에 fork한다.  
 
 ## 2. 이미 VIC GitHub에 Fork된 Repository를 업데이트하는 경우
-parallex를 예시로 방법을 소개한다.
-* 저작자 repository 주소: [https://github.com/snuspl/parallex](https://github.com/snuspl/parallax)
-* VIC repository 주소: [https://github.com/videoturingtest/parallex](https://github.com/videoturingtest/parallax)
+parallax를 예시로 방법을 소개한다.
+* 저작자 repository 주소: [https://github.com/snuspl/parallax](https://github.com/snuspl/parallax)
+* VIC repository 주소: [https://github.com/videoturingtest/parallax](https://github.com/videoturingtest/parallax)
 
 이때 아래와 같이 실행시키면 VIC GitHub에 fork된 repository를 저작자의 repository 상태로 업데이트할 수 있다.
 
