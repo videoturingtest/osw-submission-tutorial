@@ -1,7 +1,7 @@
 VTT 연구 성과로 산출된 오픈소스가 라이선스를 잘 지키고 있는지 검증하기 위하여 라이선스 검증 도구인 [코드아이(CodeEye)](https://www.olis.or.kr/codeEye/introduction.do)를 씁니다.
 
 # 1. 코드아이 클라이언트 다운로드
-OLIS(https://www.olis.or.kr/)에 접속한다.
+[OLIS]x(https://www.olis.or.kr/)에 접속한다.
 
 ![page1](images/page1.PNG)
 
@@ -85,6 +85,6 @@ OLIS(https://www.olis.or.kr/)에 접속한다.
 1. 이것을 repository의 최상위 디렉토리에 ``license_report``를 만들어 두 PDF 보고서 파일을 업로드한다.
 
 # 7. VIC GitHub에 제출 혹은 업데이트
-VIC GitHub에 repository를 제출하는 방법은 이 문서 [osw-submission-tutorial.md](osw-submit-tutorial.md)를 참고한다.
+VIC GitHub에 repository를 제출하는 방법은 이 문서 [osw-submission-tutorial.md](osw-submission-tutorial.md)를 참고한다.
 
 끝
