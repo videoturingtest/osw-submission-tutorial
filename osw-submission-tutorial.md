@@ -16,7 +16,7 @@ parallex를 예시로 방법을 소개한다.
 
 ```Bash
 git clone https://github.com/videoturingtest/parallax.git
-cd parallex/
+cd parallax/
 git remote add upstream https://github.com/snuspl/parallax.git
 git fetch upstream
 git merge upstream/master
