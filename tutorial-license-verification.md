@@ -16,6 +16,9 @@ OLIS(https://www.olis.or.kr/)에 접속한다.
 
 # 3. 코드아이 클라이언트 실행 및 로그인
 ![page3](images/page3.PNG)
+* VIC(Video Intelligence Center) 공용 계정을 이용한다.
+* 공용 계정 아이디: vic
+* 공용 계정 비밀번호: 메일로 통지
 
 # 4. 라이선스 검증을 진행할 GitHub repository 다운로드
 ![page4](images/page4.PNG)
@@ -81,28 +84,7 @@ OLIS(https://www.olis.or.kr/)에 접속한다.
 1. 그러면 ``'종합보고서.pdf'``와 ``'검사완료보고서.pdf'``가 다운로드되었을 것이다.
 1. 이것을 repository의 최상위 디렉토리에 ``license_report``를 만들어 두 PDF 보고서 파일을 업로드한다.
 
-# 7. VIC GitHub에 Fork or Merge
-* VIC GitHub (https://github.com/videoturingtest) 에 member로 참여한다. 조성재 연구원(sjcho@bi.snu.ac.kr)에게 GitHub name과 함께 참여 신청을 한다.
-
-## 7.1. 처음 VIC GitHub에 Fork하는 경우
-![page17](images/page17.PNG)
-
-* 저작자의 repository GitHub에 들어가서 화면 오른쪽 상단에 VIC GitHub(https://github.com/videoturingtest)에 fork한다.  
-
-## 7.2. 이미 VIC GitHub에 Fork된 Repository를 업데이트하는 경우
-parallex를 예시로 방법을 소개한다.
-* 저작자 repository 주소: https://github.com/snuspl/parallex
-* VIC repository 주소: https://github.com/videoturingtest/parallex
-
-이때 아래와 같이 실행시키면 VIC GitHub에 fork된 repository를 저작자의 repository 상태로 업데이트할 수 있다.
-
-```Bash
-git clone https://github.com/videoturingtest/parallex.git
-cd parallex/
-git remote add upstream https://github.com/snuspl/parallex.git
-git fetch upstream
-git merge upstream/master
-git push origin master
-```
+# 7. VIC GitHub에 제출 혹은 업데이트
+VIC GitHub에 repository를 제출하는 방법은 이 문서 [osw-submit-tutorial.md](osw-submit-tutorial.md)를 참고한다.
 
 끝
