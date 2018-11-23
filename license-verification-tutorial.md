@@ -85,6 +85,6 @@ OLIS(https://www.olis.or.kr/)에 접속한다.
 1. 이것을 repository의 최상위 디렉토리에 ``license_report``를 만들어 두 PDF 보고서 파일을 업로드한다.
 
 # 7. VIC GitHub에 제출 혹은 업데이트
-VIC GitHub에 repository를 제출하는 방법은 이 문서 [osw-submit-tutorial.md](osw-submit-tutorial.md)를 참고한다.
+VIC GitHub에 repository를 제출하는 방법은 이 문서 [osw-submission-tutorial.md](osw-submit-tutorial.md)를 참고한다.
 
 끝
