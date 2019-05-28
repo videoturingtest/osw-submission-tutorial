@@ -5,9 +5,29 @@ A tutorial to submit open-source software to this VIC GitHub
 아래 순서대로 VTT 오픈소스를 공개한다.
 
 ## 1. 자신의 저장소에 오픈소스 공개하기
-공개한 오픈소스를 원하는 계정의 GitHub 저장소(repository)에 공개한다. 공개할 때 라이선스를 정하여, 파일 저장소 상위 디렉토리에 LICENSE 파일을 만들어 라이선스를 명시한다. 라이선스를 공개 후 정했다면 아래와 같은 방법으로 LICENSE 파일을 추가한다.
 
-[GitHub repository에 라이선스 파일을 추가하는 방법](https://help.github.com/articles/adding-a-license-to-a-repository/)
+공개한 오픈소스를 원하는 계정의 GitHub 저장소(repository)에 공개한다. 
+
+오픈소스를 잘 이용할 수 있도록 충분히 문서화한다. 메인테이너는 각 모듈에 대한 문서를 작성한다. 기본적으로 `README.md`, `LICENSE`를 포함해야하며 문서별 내용은 다음과 같다. 
+
+### 1.1. 오픈소스 사용법 문서화
+
+__README.md__
+* Overview: 공개SW에 대한 개괄적 설명
+* Install: 공개SW 사용 설치 방법
+* How to use: 공개SW 사용 방법
+* Contact us: 공개SW에 대한 문의를 받을 연락처
+* 그 외에 추가적으로 내용을 넣을 수 있다
+  * 예시: SNU Parallax (https://github.com/snuspl/parallax/blob/master/README.md )
+
+### 1.2. 소프트웨어 라이선스 문서화
+
+__LICENSE__
+* 오픈소스의 사용권 계약사항을 명시한 문서이다. 일반적으로 라이선스를 정하면 이 문서를 자동으로 생성할 수 있다.
+* 저장소를 만들 때, 라이선스를 선택하면 파일 저장소 상위 디렉토리에 `LICENSE` 파일이 자동으로 생성된다.
+* 저장소를 공개 후 라이선스를 공개했다면, 아래와 같은 방법으로 `LICENSE` 파일을 추가한다.
+  * [GitHub repository에 라이선스 파일을 추가하는 방법](https://help.github.com/articles/adding-a-license-to-a-repository/)
+
 
 ## 2. 공개한 저장소를 VIC organization 계정으로 fork하기
 
