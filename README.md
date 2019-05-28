@@ -1,7 +1,5 @@
 # Open Software Submission Tutorial
-A tutorial to submit open-source software to this VIC GitHub
 
-# Contents
 아래 순서대로 VTT 오픈소스를 공개한다.
 
 ## 1. 자신의 저장소에 오픈소스 공개하기
