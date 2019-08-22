@@ -26,13 +26,14 @@ __LICENSE__
 * 저장소를 공개 후 라이선스를 공개했다면, 아래와 같은 방법으로 `LICENSE` 파일을 추가한다.
   * [GitHub repository에 라이선스 파일을 추가하는 방법](https://help.github.com/articles/adding-a-license-to-a-repository/)
 
+## 2. 라이선스 검증 진행
 
-## 2. 공개한 저장소를 VIC organization 계정으로 fork하기
+VIC에서 공개SW 담당자가 공개 저장소의 라이선스를 검증한다.  통과하지 못하면, VIC가 검증 결과를 해당 공개SW 메인테이너에게 전달하고, 각 메인테이너는 참여기관 LsWare(신동명 박사; roland@lsware.com)에게 자문을 구하여 라이선스를 수정하거나 코드를 수정하여 라이선스 검증을 통과한다. 
 
-공개한 저장소를 [VIC organization 계정](https://github.com/videoturingtest)으로 fork한다. fork하기 위해서는 VIC의 멤버가 되어야 한다. 자세한 방법은 아래 문서를 참고한다.
+## 3. 공개한 저장소를 VIC organization 계정으로 fork하기
+
+라이선스 검증을 통과한 저장소를 [VIC organization 계정](https://github.com/videoturingtest)으로 fork한다. fork하기 위해서는 VIC의 멤버가 되어야 한다. 자세한 방법은 아래 문서를 참고한다.
 
 [VTT 오픈소스 성과물 제출 방법](osw-submission-tutorial.md)
 
-## 3. LsWare에서 라이선스 검증 진행
-
-참여기관 LsWare에서 공개 저장소의 라이선스를 검증한다. 검증을 통과하면 리포트를 해당 저장소에 라이선스 리포르 PDF 문서를 추가한다. 통과하지 못하면 LsWare와 공개 기관과 조정하여 라이선스를 수정하거나 코드를 수정하여 다시 제출한다.
+라이선스 검증 리포트를 해당 저장소에 파일 형태로 추가한다.
