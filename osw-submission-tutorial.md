@@ -1,6 +1,6 @@
 # VTT 오픈소스 성과물 제출 방법
 
-* **[필수]** [VIC GitHub](https://github.com/videoturingtest)에 member로 참여한다. 조성재 연구원(sjcho@bi.snu.ac.kr)에게 GitHub name과 함께 참여 신청을 한다.
+* **[필수]** [VIC GitHub](https://github.com/videoturingtest)에 member로 참여한다. 서아정 연구원(ajseo@bi.snu.ac.kr)에게 GitHub name과 함께 참여 신청을 한다.
 
 ## 1. 처음 VIC GitHub에 Fork하는 경우
 ![page17](images/page17.PNG)
